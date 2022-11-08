@@ -83,16 +83,6 @@ print()
 lb = aml.leaderboard
 model = aml.leader 
 print(lb.head(rows = lb.nrows))
-            # Predict with the best model.
-#predicted_y = model.predict(valid[feature_columns])
-
-#predicted_data = predicted_y.as_data_frame()
-#valid_dataset = valid.as_data_frame()
-            # Evaluate the skill of the Trained model
-#acc                 = accuracy_score(valid_dataset[target_column], predicted_data['predict'])
-#classReport         = classification_report(valid_dataset[target_column], predicted_data['predict'])
-#confMatrix          = confusion_matrix(valid_dataset[target_column], predicted_data['predict']) 
-            
 
 import scikitplot as skplt
 from sklearn.metrics import accuracy_score, classification_report
