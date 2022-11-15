@@ -3,3 +3,4 @@
 - With focus on tabular data,
 - OpenML Datasets
 - Confusion Matrix
+- Java is required to install H2O-AutoML
