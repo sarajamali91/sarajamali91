@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @sarajamali
-- 👀 I’m interested in artificial intelligence and cognitive science, deep learning and Automl
-- 🌱 I’m currently a student of M.Sc. Information technology at the University of Rostock.
+- 👀 I’m interested in artificial intelligence, cognitive science and Machine learning
+- 🌱 I’m currently a master student at the University of Rostock in the field of information technology.
